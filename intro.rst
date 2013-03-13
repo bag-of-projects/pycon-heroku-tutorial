@@ -32,12 +32,14 @@ Prequisites
 
 This tutorial assumes these basic prequsites:
 
+- POSIX development environment (OSX, Linux)
 - Working knowlege of Web Frameworks
 - Working knowlege of Python
 - Working knowlege of Git
-- POSIX development environment (OSX, Linux)
+
+
+Windows users are welcome to attend the tutorial, but this is only recommended for users familiar with using Git and Python in that environment.
 
 I will try to be accomidating as possible to newcomers, but not at the expense of the other attendees.
 
-Windows users are welcome to attend the tutorial, but this is only recommended for users familiar with using Git and Python in that environment.
 
