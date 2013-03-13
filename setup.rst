@@ -27,3 +27,8 @@ Need Help?
 ++++++++++
 
 As always if you need any help, feel free to `reach out <mailto:kenneth@heroku.com>`_ to Kenneth.
+
+
+--------------------------------
+
+Next Step: Heroku Python Quickstart

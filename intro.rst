@@ -11,8 +11,8 @@ This tutorial is lead by `Kenneth Reitz <http://kennethreitz.org/>`_.
 
 Kenneth is the product owner of Python at Heroku and a member of the Python Software Foundation. He embraces minimalism, elegant architecture, and simple interfaces. Kenneth is well known for his many open source projects, specifically `Requests <http://python-requests.org>`_.
 
-Scope
------
+Tutorial Scope
+--------------
 
 This tutorial will present a hands-on, step-by-step process of deploying Python applications to Heroku.
 
