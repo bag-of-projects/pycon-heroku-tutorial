@@ -11,6 +11,12 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   intro
+   setup
+   quickstart
+   advanced
+
+
 
 
 Indices and tables
