@@ -13,8 +13,11 @@ Contents:
 
    intro
    setup
+   twelve-factor
    quickstart
    advanced
+
+
 
 
 
