@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Welcome to PyCon 2013
+Welcome to Heroku's PyCon 2013 workshop tutorial.
 
 
 About the Instructor
