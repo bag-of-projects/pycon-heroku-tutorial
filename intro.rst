@@ -32,7 +32,8 @@ Prequisites
 
 This tutorial assumes these basic prequsites:
 
-- Working knowlege of Web Applications
+
+- Working knowlege of Web Frameworks
 - Working knowlege of Python
 - Working knowlege of Git
 
